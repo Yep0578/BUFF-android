@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/home"
+        android:title="主页"/>
+
+    <item
+        android:id="@+id/nav_news"
+        android:icon="@drawable/news"
+        android:title="资讯"/>
+
+    <item
+        android:id="@+id/nav_stuff"
+        android:icon="@drawable/unstuff"
+        android:title="库存"/>
+
+    <item
+        android:id="@+id/nav_sold"
+        android:icon="@drawable/unsold"
+        android:title="出售"/>
+
+    <item
+        android:id="@+id/nav_mine"
+        android:icon="@drawable/unmine"
+        android:title="我的"/>
+
+</menu>

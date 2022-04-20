@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">final</string>
+    <string name="home">BUFF</string>
+    <string name="stuff">库存</string>
+    <string name="sold">出售</string>
+    <string name="mine">我的</string>
+</resources>
